@@ -1,8 +1,7 @@
 
 //Null vs undefined
 
-/*
-undefined
+//undefined
 
 
 
@@ -28,5 +27,5 @@ let ages = [98,87];
 console.log(ages[6]);
 
 
-Null
-is empty*/
+//Null
+//is empty
